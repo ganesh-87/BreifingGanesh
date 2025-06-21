@@ -3,17 +3,17 @@ export default function Projects() {
     {
       name: "AI Based Task Management System",
       link: "https://github.com/ganesh-87/Task_Manager",
-      img: "src/assets/TaskProj.png",
+      img: "/TaskProj.png",
     },
     {
       name: "Bidirectional Data Ingestion Tool",
       link: "https://github.com/ganesh-87/Data-Ingestion-Tool",
-      img: "src/assets/ProjInjes.jpg",
+      img: "/ProjInjes.jpg",
     },
     {
       name: "Ecommerce Price Comparison Platform",
       link: "https://github.com/ganesh-87/BestDeals",
-      img: "src/assets/ProjDeals.jpeg",
+      img: "/ProjDeals.jpeg",
     },
   ];
   return (
