@@ -19,7 +19,7 @@ export default function Hero() {
             "Hi, I'm Ganesh 👋", // Types this string
             2000, // Waits 2s
             "", // Deletes it
-            "Aspiring SWE 🚀",
+            "SWE Intern @ Airbus 🚀",
             2000,
             "",
             "Let's build something cool! 🔧",
@@ -35,9 +35,8 @@ export default function Hero() {
         Full Stack Development and Software Testing
       </p>
       <p className="text-black">
-        I'm a passionate engineer with practice in building full-stack
-        applications and experience from S&P Global in Developing Automation
-        test scripts using Python and Selenium.
+        I'm a passionate engineer with experience in building full-stack
+        applications from Airbus and Test Automation from S&P Global.
       </p>
       <a
         href="#contact"
