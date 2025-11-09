@@ -7,7 +7,7 @@ export default function Hero() {
     >
       <div className="p-[3px] mt-4 rounded-full bg-gradient-to-tr from-blue-500 via-purple-500 to-pink-500 hover:scale-105 transform transition duration-300 shadow-xl">
         <img
-          src="src/assets/ganesh.jpg"
+          src="/ganesh.jpg"
           alt="Ganesh"
           className="rounded-full w-52 h-52 object-cover"
         />
