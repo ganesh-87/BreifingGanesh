@@ -24,8 +24,8 @@ function Navbar() {
             </li>
             <li>
               <a
-                href="/JGP_Updated.pdf"
-                download="JGP_Updated.pdf"
+                href="/GaneshBreif.pdf"
+                download="GaneshBreif.pdf"
                 className="hover:text-blue-500"
               >
                 Resume
