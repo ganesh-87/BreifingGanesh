@@ -9,6 +9,14 @@ import { MdWork, MdSchool } from "react-icons/md";
 const data = [
   {
     type: "experience",
+    title: "Software Engineer Intern",
+    institution: "Airbus",
+    duration: "Sep 2025 - Present",
+    description:
+      "Developing and maintaining data-centric web applications for aircraft design and manufacturing workflows using Angular, Nodejs.",
+  },
+  {
+    type: "experience",
     title: "Quality Assurance Intern",
     institution: "S&P Global",
     duration: "Jun 2024 - Aug 2024",
