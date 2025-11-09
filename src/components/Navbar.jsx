@@ -19,7 +19,7 @@ function Navbar() {
             </li>
             <li>
               <a href="#journey" className="hover:text-blue-500">
-                My Journey
+                Trek
               </a>
             </li>
             <li>
