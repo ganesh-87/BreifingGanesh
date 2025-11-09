@@ -13,7 +13,7 @@ export default function Hero() {
         />
       </div>
 
-      <h2 className="text-black text-4xl md:text-6xl font-bold mb-4">
+      <h2 className="text-black text-3xl md:text-5xl font-bold mb-4">
         <TypeAnimation
           sequence={[
             "Hi, I'm Ganesh 👋", // Types this string
