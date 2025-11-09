@@ -49,9 +49,7 @@ const data = [
 export default function Experience() {
   return (
     <section id="journey" className="py-10 scroll-mt-15">
-      <h2 className="text-4xl font-bold text-center mb-10 text-black">
-        My Journey
-      </h2>
+      <h2 className="text-4xl font-bold text-center mb-10 text-black">Trek</h2>
       <VerticalTimeline>
         {data.map((item, index) => (
           <VerticalTimelineElement

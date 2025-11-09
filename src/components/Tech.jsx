@@ -1,4 +1,4 @@
-import { FaJava, FaPython, FaReact } from "react-icons/fa";
+import { FaAngular, FaJava, FaPython, FaReact } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { DiMysql } from "react-icons/di";
 import { BiLogoSpringBoot } from "react-icons/bi";
@@ -8,6 +8,7 @@ const techStack = [
   { icon: <FaJava />, label: "Java", color: "text-red-600" },
   { icon: <FaPython />, label: "Python", color: "text-yellow-500" },
   { icon: <FaReact />, label: "React", color: "text-sky-400" },
+  { icon: <FaAngular />, label: "Angular", color: "text-red-700" },
   { icon: <RiTailwindCssFill />, label: "Tailwind", color: "text-cyan-500" },
   { icon: <DiMysql />, label: "MySQL", color: "text-blue-700" },
   { icon: <BiLogoSpringBoot />, label: "Spring Boot", color: "text-green-600" },
